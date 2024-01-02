@@ -1,4 +1,5 @@
 **#Article View**
+
 There is a table named Views with 4 fields: 
 article_id (int) 
 author_id (int)
